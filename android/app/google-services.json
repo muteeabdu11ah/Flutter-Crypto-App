@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717272588791",
+    "project_id": "sbs-trading-29380",
+    "storage_bucket": "sbs-trading-29380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717272588791:android:a2d81c48e0bf0f1d100ef2",
+        "android_client_info": {
+          "package_name": "com.example.cryptocurrency_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717272588791-prufpuarbf77vogdn4vfhusvhojj92jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptocurrency_app",
+            "certificate_hash": "ab01e33a7ef1994d2634a47f28be62aa61e101e2"
+          }
+        },
+        {
+          "client_id": "717272588791-f1vaeooofuqgtgfp9n9obrll99nfq1u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeDTQ8dlKaMk73pR_458KbxUJEpWHK90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717272588791-f1vaeooofuqgtgfp9n9obrll99nfq1u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

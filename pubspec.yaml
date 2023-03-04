@@ -1,0 +1,62 @@
+name: cryptocurrency_app
+description: A new Flutter project.
+
+publish_to: "none" 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  auto_size_text: ^3.0.0-nullsafety.0
+  binance_spot: ^0.0.2
+  build_runner: ^2.2.1
+  candlesticks: ^2.1.0
+  candlesticks_plus: ^1.0.9
+  cloud_firestore: ^3.4.9
+  cupertino_icons: ^1.0.0
+  dartz: ^0.10.1
+  decimal: ^2.3.0
+  dio: ^4.0.0
+  easy_localization: ^3.0.0
+  firebase_auth: ^3.9.0
+  firebase_core: ^1.22.0
+  firebase_storage: ^10.3.8
+  fl_chart: ^0.36.1
+  flutter:
+    sdk: flutter
+  flutter_candlesticks:
+    git: https://github.com/salvadordeveloper/flutter-candlesticks.git
+  flutter_dotenv: ^5.0.0
+  flutter_fortune_wheel: ^1.2.0
+  flutter_riverpod: 2.0.0-dev.3
+  flutter_secure_storage: ^5.0.2
+  freezed_annotation: null
+  hooks_riverpod: 2.0.0-dev.3
+  http: ^0.13.5
+  interactive_chart: ^0.3.4
+  json_serializable: ^6.4.0
+  mockito: ^5.0.9
+  provider: ^6.0.3
+  rxdart: ^0.27.5
+  settings_ui: ^2.0.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.9.0
+  flutter_native_splash: ^1.1.8+4
+  flutter_test:
+    sdk: flutter
+  freezed: null
+  http_mock_adapter: ^0.3.2
+  integration_test:
+    sdk: flutter
+
+flutter:
+ 
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+    - assets/icon/
+  
